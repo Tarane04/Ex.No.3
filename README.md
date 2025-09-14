@@ -1,7 +1,7 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# EXPERIMENT – 3: Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+### Register No.: 212222060271
+### Date: 14.09.2025
 
-### DATE:14.09.25                                                                            
-### REGISTER NUMBER : 212222060271
 ## Aim: 
 To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. Using Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting techniques.
 
@@ -62,4 +62,3 @@ Different types of prompts handled different scenarios better, improving overall
 ## Result:
 Thus, the prompts were designed and executed successfully.
 The chatbot demonstrated the ability to handle troubleshooting, order tracking, and general inquiries using a mix of Straightforward, Tabular, and Preceding Question Prompting strategies, thereby enhancing customer service experience.
-
